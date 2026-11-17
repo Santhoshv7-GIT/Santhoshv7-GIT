@@ -42,6 +42,8 @@ I enjoy transforming ideas into practical solutions using Generative AI, modern 
 ## 🚀 Featured Projects
 
 ### 1. XTREME AI – Advanced Intelligence
+🌐 **Live Demo:** [xtreme-ai-azure.vercel.app](https://xtreme-ai-azure.vercel.app)
+
 An AI-powered chatbot platform integrating Google's Gemini API and Supabase.
 
 **Features:**
@@ -52,6 +54,8 @@ An AI-powered chatbot platform integrating Google's Gemini API and Supabase.
 - Voice-based interaction
 
 ### 2. Career AI – AI-Powered Career Assistant
+🌐 **Live Demo:** [career-ai-app-delta.vercel.app](https://career-ai-app-delta.vercel.app/)
+
 An intelligent career assistance platform designed to improve career readiness through AI.
 
 **Features:**
